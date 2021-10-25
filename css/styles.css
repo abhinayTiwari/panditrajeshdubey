@@ -774,3 +774,13 @@ footer {
         margin: 0 0 23px 5px;
     }
 }
+
+.btn.more{
+    background-color: #fb6c00;
+    color: white;
+    margin-top: 7px;
+}
+
+.text-justify{
+    text-align: justify;
+}
